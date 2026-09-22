@@ -61,3 +61,5 @@ print(f"• ФИО:            {patient.name}")
 print(f"• Дата рождения:  {patient.birth_date}")
 print(f"• Телефон:        {patient.phone}")
 print(f"• Температура:    {patient.temperature:.2f}")
+
+#Изменение для теста issue
